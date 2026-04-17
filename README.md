@@ -44,25 +44,6 @@ Building **autonomous AI agents** since [redacted], trading crypto since [also r
 <tr>
 <td width="50%">
 
-### 🤖 Polymarket LMS Sniper Agent
-[![GitHub stars](https://img.shields.io/github/stars/Kurozkyn/polymarket-lms-sniper?style=social)](https://github.com/Kurozkyn/polymarket-lms-sniper)
-[![Version](https://img.shields.io/badge/version-3.1-blue.svg)](https://github.com/Kurozkyn/polymarket-lms-sniper)
-[![AI](https://img.shields.io/badge/AI-Trading%20Agent-7B2CBF.svg)]()
-
-> **Autonomous Trading Agent** — Self-executing 5-min Crypto Up/Down with AI risk analysis
-
-**Stack:** Node.js • Ethers.js • Hyperliquid WS • Chainlink Oracles
-
-- 🧠 **AI Risk Engine** — Dynamic position sizing & stop-loss
-- ⚡ **Real-time WS feeds** — Sub-second price latency
-- ⛓️ **On-chain execution** — Direct CLOB integration
-- 🤖 **Autonomous mode** — Full hands-free trading
-
-[🔗 Repository](https://github.com/Kurozkyn/polymarket-lms-sniper) • [📖 Docs](https://github.com/Kurozkyn/polymarket-lms-sniper#readme)
-
-</td>
-<td width="50%">
-
 ### 🎭 AI Agent Orchestrator
 [![Private](https://img.shields.io/badge/status-private-red.svg)]()
 [![Agents](https://img.shields.io/badge/Agents-Multi--Agent-00D9FF.svg)]()
@@ -79,8 +60,6 @@ Building **autonomous AI agents** since [redacted], trading crypto since [also r
 *Building the future of autonomous AI development...*
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🐦 X Sentiment AI Agent
@@ -97,24 +76,6 @@ Building **autonomous AI agents** since [redacted], trading crypto since [also r
 - 🗃️ **Vector DB** — Historical sentiment storage
 
 *Alpha version running 24/7...*
-
-</td>
-<td width="50%">
-
-### 💰 Solana Meme Coin AI Trader
-[![Private](https://img.shields.io/badge/status-private-red.svg)]()
-[![Risk](https://img.shields.io/badge/AI-High%20Frequency-7B2CBF.svg)]()
-
-> **AI-powered meme coin sniper** — Birdeye + DexScreener + X sentiment
-
-**Stack:** Rust • Solana Web3.js • TensorFlow • Raydium/Jupiter
-
-- 🤖 **ML Pattern Recognition** — Rug pull detection model
-- ⚡ **Sub-second execution** — Jito MEV optimization
-- 📊 **On-chain analytics** — Wallet clustering & tracking
-- 🔄 **Reinforcement Learning** — Strategy self-optimization
-
-*Trading with machine precision...*
 
 </td>
 </tr>
