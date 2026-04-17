@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00D9FF&height=200&section=header&text=KUROZKYN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web3%20%7C%20DeFi%20%7C%20Quant%20Trading&descAlignY=55&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+of+DeFi;Automated+trading+strategies;MEV+%7C+Arbitrage+%7C+Prediction+Markets;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+autonomous+AI+agents;Multi-agent+orchestration+%7C+DeFi+trading;Machine+Learning+%7C+On-chain+intelligence;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,11 +22,11 @@ struct Kurozkyn {
 impl Kurozkyn {
     fn new() -> Self {
         Self {
-            role: "Web3 Developer & Quant Trader",
-            focus: vec!["DeFi", "On-chain Analytics", "MEV", "Prediction Markets"],
+            role: "AI Agent Developer & Quant Trader",
+            focus: vec!["AI Agents", "Multi-Agent Systems", "DeFi", "MEV", "Prediction Markets"],
             chains: vec!["Solana", "Polygon", "Ethereum", "Sui"],
             languages: vec!["Rust", "TypeScript", "Solidity", "Python"],
-            interests: vec!["Meme coins", "Fishing", "ICT/SMC Trading"],
+            interests: vec!["AI/ML", "Autonomous Agents", "Meme coins", "Fishing", "ICT/SMC Trading"],
         }
     }
 }
@@ -34,7 +34,7 @@ impl Kurozkyn {
 
 🎣 **Hobby fisherman by day, on-chain hunter by night.**
 
-Trading crypto since [redacted], automating strategies since [also redacted]. Currently focused on **Polymarket prediction markets** and **Solana meme coin alpha**.
+Building **autonomous AI agents** since [redacted], trading crypto since [also redacted]. Currently focused on **multi-agent orchestration**, **AI-powered trading systems**, and **on-chain intelligence**.
 
 ---
 
@@ -44,38 +44,77 @@ Trading crypto since [redacted], automating strategies since [also redacted]. Cu
 <tr>
 <td width="50%">
 
-### 🤖 Polymarket LMS Sniper Bot
+### 🤖 Polymarket LMS Sniper Agent
 [![GitHub stars](https://img.shields.io/github/stars/Kurozkyn/polymarket-lms-sniper?style=social)](https://github.com/Kurozkyn/polymarket-lms-sniper)
 [![Version](https://img.shields.io/badge/version-3.1-blue.svg)](https://github.com/Kurozkyn/polymarket-lms-sniper)
+[![AI](https://img.shields.io/badge/AI-Trading%20Agent-7B2CBF.svg)]()
 
-> **Late Momentum Scalping** — Automated bot for 5-min Crypto Up/Down markets
+> **Autonomous Trading Agent** — Self-executing 5-min Crypto Up/Down with AI risk analysis
 
 **Stack:** Node.js • Ethers.js • Hyperliquid WS • Chainlink Oracles
 
-- ⚡ Real-time price feeds from Hyperliquid
-- ⛓️ On-chain PTB via Chainlink
-- 📊 Live trading via Polymarket CLOB
-- 🛡️ Built-in risk management
+- 🧠 **AI Risk Engine** — Dynamic position sizing & stop-loss
+- ⚡ **Real-time WS feeds** — Sub-second price latency
+- ⛓️ **On-chain execution** — Direct CLOB integration
+- 🤖 **Autonomous mode** — Full hands-free trading
 
 [🔗 Repository](https://github.com/Kurozkyn/polymarket-lms-sniper) • [📖 Docs](https://github.com/Kurozkyn/polymarket-lms-sniper#readme)
 
 </td>
 <td width="50%">
 
-### 💰 Solana Meme Coin Trader
+### 🎭 AI Agent Orchestrator
 [![Private](https://img.shields.io/badge/status-private-red.svg)]()
-[![Risk](https://img.shields.io/badge/risk-high-orange.svg)]()
+[![Agents](https://img.shields.io/badge/Agents-Multi--Agent-00D9FF.svg)]()
 
-> **Multi-source alpha aggregation** — Birdeye + DexScreener + X sentiment
+> **Hermes-powered AI agent swarm** — Autonomous coding & research agents
 
-**Stack:** Rust • Solana Web3.js • ML Classifier
+**Stack:** Python • FastAPI • Redis • Docker • OpenAI/Claude
 
-- 🔍 Multi-source data aggregation
-- 🐦 X/Twitter sentiment analysis
-- 📈 Risk scoring algorithm
-- 🔄 Backtesting framework
+- 🧩 **Multi-Agent Coordination** — Parallel task execution
+- 📝 **Auto-Documentation** — Self-documenting codebase
+- 🔧 **Self-Healing Code** — Auto-debug & patch
+- 📊 **Agent Analytics Dashboard** — Real-time monitoring
 
-*Coming soon to public repos...*
+*Building the future of autonomous AI development...*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐦 X Sentiment AI Agent
+[![WIP](https://img.shields.io/badge/status-WIP-yellow.svg)]()
+[![ML](https://img.shields.io/badge/ML-NLP-FF6B6B.svg)]()
+
+> **Social sentiment analysis agent** — Real-time crypto trend detection
+
+**Stack:** Python • Transformers • Tweepy • Redis • WebSocket
+
+- 🎯 **BERT-based sentiment** — Fine-tuned on crypto corpus
+- 📈 **Trend prediction** — LSTM price movement forecast
+- 🔔 **Alert system** — High-confidence signal notifications
+- 🗃️ **Vector DB** — Historical sentiment storage
+
+*Alpha version running 24/7...*
+
+</td>
+<td width="50%">
+
+### 💰 Solana Meme Coin AI Trader
+[![Private](https://img.shields.io/badge/status-private-red.svg)]()
+[![Risk](https://img.shields.io/badge/AI-High%20Frequency-7B2CBF.svg)]()
+
+> **AI-powered meme coin sniper** — Birdeye + DexScreener + X sentiment
+
+**Stack:** Rust • Solana Web3.js • TensorFlow • Raydium/Jupiter
+
+- 🤖 **ML Pattern Recognition** — Rug pull detection model
+- ⚡ **Sub-second execution** — Jito MEV optimization
+- 📊 **On-chain analytics** — Wallet clustering & tracking
+- 🔄 **Reinforcement Learning** — Strategy self-optimization
+
+*Trading with machine precision...*
 
 </td>
 </tr>
@@ -137,10 +176,11 @@ Trading crypto since [redacted], automating strategies since [also redacted]. Cu
 
 ```text
 🎯 Q2 2026 Roadmap
-├── ⚡ Optimize LMS bot (target: >65% win rate)
-├── 🤖 Deploy Solana meme coin alpha scanner  
-├── 📊 Build on-chain analytics dashboard
-├── 🔮 Explore limit order book arbitrage
+├── 🤖 Launch AI Agent Orchestrator v1.0
+├── 🧠 Integrate LLM-powered strategy optimization
+├── ⚡ Deploy multi-agent trading swarm
+├── 📊 Build agent performance analytics dashboard
+├── 🔮 Research autonomous MEV extraction agents
 └── 🎣 More fishing trips (work-life balance ✨)
 ```
 
