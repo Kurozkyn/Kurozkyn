@@ -133,17 +133,64 @@ Building **autonomous AI agents** since [redacted], trading crypto since [also r
 
 ---
 
-## 📈 Current Focus
+## 📈 Strategic Roadmap 2026
 
-```text
-🎯 Q2 2026 Roadmap
-├── 🤖 Launch AI Agent Orchestrator v1.0
-├── 🧠 Integrate LLM-powered strategy optimization
-├── ⚡ Deploy multi-agent trading swarm
-├── 📊 Build agent performance analytics dashboard
-├── 🔮 Research autonomous MEV extraction agents
-└── 🎣 More fishing trips (work-life balance ✨)
+<div align="center">
+
+| Phase | Timeline | Key Deliverables | Status |
+|:-----:|:--------:|------------------|:------:|
+| **Q1** | Jan–Mar | Foundation & Research | ✅ Complete |
+| **Q2** | Apr–Jun | Core Platform Development | 🔄 In Progress |
+| **Q3** | Jul–Sep | Production Deployment | ⏳ Planned |
+| **Q4** | Oct–Dec | Scale & Optimize | ⏳ Planned |
+
+</div>
+
+### 🎯 Q2 2026 Objectives
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 Product Development
+- [ ] **AI Agent Orchestrator v1.0** — Core platform launch
+- [ ] **Multi-Agent Coordination** — Distributed task execution
+- [ ] **Self-Healing Framework** — Auto-debug & recovery systems
+- [ ] **Analytics Dashboard** — Real-time performance monitoring
+
+</td>
+<td width="50%">
+
+#### 🧠 Research & Innovation
+- [ ] **LLM Strategy Optimization** — GPT-4/Claude integration
+- [ ] **Autonomous MEV Agents** — On-chain opportunity detection
+- [ ] **Sentiment Model v2** — Enhanced BERT fine-tuning
+- [ ] **Vector Memory Systems** — Long-term agent context
+
+</td>
+</tr>
+</table>
+
+### 📊 Key Metrics (Target Q2)
+
+| Metric | Current | Target | Delta |
+|--------|---------|--------|-------|
+| Active Agents | 2 | 10 | +400% |
+| Task Throughput | ~50/day | 500/day | +900% |
+| Agent Uptime | 95% | 99.9% | +4.9% |
+| Avg Response Time | 2.5s | <1s | -60% |
+
+---
+
+### 🌟 Long-term Vision
+
 ```
+2026: Build autonomous agent infrastructure
+2027: Scale to 100+ agent networks  
+2028: Fully autonomous AI organizations
+```
+
+> *"Building the substrate for autonomous digital labor"* — Kurozkyn
 
 ---
 
